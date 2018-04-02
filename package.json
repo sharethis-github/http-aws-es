@@ -1,8 +1,8 @@
 {
-  "name": "http-aws-es",
-  "version": "4.0.0",
+  "name": "@st-operations/http-aws-es",
+  "version": "4.0.2",
   "description": "Use the elasticsearch-js client with Amazon ES",
-  "repository": "https://github.com/TheDeveloper/http-aws-es",
+  "repository": "https://github.com/sharethis-github/http-aws-es",
   "bugs": "https://github.com/TheDeveloper/http-aws-es/issues",
   "keywords": [
     "elasticsearch",
