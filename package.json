@@ -1,6 +1,6 @@
 {
   "name": "@st-operations/http-aws-es",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": "Use the elasticsearch-js client with Amazon ES",
   "repository": "https://github.com/sharethis-github/http-aws-es",
   "bugs": "https://github.com/TheDeveloper/http-aws-es/issues",
@@ -19,18 +19,18 @@
   "main": "connector.js",
   "peerDependencies": {
     "aws-sdk": "^2.138.0",
-    "elasticsearch": "^13.2.0"
+    "elasticsearch": "^15.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.138.0",
-    "browserify": "^14.5.0",
+    "aws-sdk": "^2.377.0",
+    "browserify": "^16.2.3",
     "chai": "^4.1.2",
-    "elasticsearch": "^13.3.1",
-    "eslint": "^4.9.0",
+    "elasticsearch": "^15.0.0",
+    "eslint": "^5.10.0",
     "express": "^4.16.2",
     "minimist": "^1.2.0",
     "mocha": "^4.0.1",
-    "nyc": "^11.2.1",
+    "nyc": "^13.1.0",
     "puppeteer": "^0.12.0",
     "sinon": "^4.0.0"
   },
